@@ -37,3 +37,6 @@ module.exports = {
     });
   }
 };
+
+      //Log any errors, along with the payload that got sent and the response you got and then have the bot respond to the user.
+
